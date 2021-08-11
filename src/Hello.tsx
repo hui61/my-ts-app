@@ -1,6 +1,7 @@
 // src/components/StatefulHello.tsx
 
 import * as React from "react";
+import './Hello.css'
 
 export interface Props {
     name: string;
